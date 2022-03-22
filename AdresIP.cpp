@@ -1,5 +1,6 @@
 /*
 OKI
+wersja 2
 */
 #include <iostream>
 #include <vector>
